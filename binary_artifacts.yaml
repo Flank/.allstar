@@ -1,5 +1,7 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - binaries
 action: issue
 ignoreFiles:
 - gradle-wrapper.jar
